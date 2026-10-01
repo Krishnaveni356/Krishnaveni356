@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm krishnaveni</h1>
-<h3 align="center">Passionate about creating intelligent automation with AI and RPA tools.</h3>
+<h3 align="center">Passionate about creating intelligent automation with AI.</h3>
 
 # 💫 About Me:
 🌱 Currently exploring **Data Structures and Algorithms (DSA)** using **Java** to strengthen my problem-solving and logic-building skills — aiming to crack high-level coding interviews and build a strong foundation in computer science.
 
 Building AI agents with automation workflows.<br>
 Projects involving intelligent automation, AI agents, and workflow orchestration.<br>
-Advanced use of RPA tools, scaling AI workflows.<br>
-UiPath, n8n, Hugging Face.<br>
 AI + RPA integration, building automation workflows, and deploying AI agents on cloud platforms.<br>
 I love combining creative thinking with automation to solve real-world problems — and I’m always excited to explore new tools and technologies!<br><br>
 
